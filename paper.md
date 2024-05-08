@@ -19,4 +19,6 @@ a large uncertainty in modelling BBOA is the extent to which measurement in the.
 I don't know anything about simulation but some people did.
 
 #Methodology
+
+I need to grind and polish sample.
 this study was carried out with EBSD.
