@@ -1,5 +1,6 @@
 # Title
-Measuring Texture of titanium with EBSD
+Measuring Texture of titanium with EBSD during hot rolling
+
 
 # Author
 Xiaohan Zeng
