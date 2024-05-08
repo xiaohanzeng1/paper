@@ -3,6 +3,7 @@ Texture of titanium
 
 # Author
 Xiaohan Zeng
+Zeng Xiaohan
 
 # Introduction
 titanium is important.
