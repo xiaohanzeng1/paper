@@ -1,5 +1,5 @@
 # Title
-Texture of titanium
+Measuring Texture of titanium with EBSD
 
 # Author
 Xiaohan Zeng
